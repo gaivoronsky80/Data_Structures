@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/bin/Debug/netcoreapp2.2/Singly-Linked-List.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/bin/Debug/netcoreapp2.2/Singly-Linked-List.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/bin/Debug/netcoreapp2.2/Singly-Linked-List.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/bin/Debug/netcoreapp2.2/Singly-Linked-List.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/bin/Debug/netcoreapp2.2/Singly-Linked-List.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Singly-Linked-List/obj/Debug/netcoreapp2.2/Singly-Linked-List.pdb

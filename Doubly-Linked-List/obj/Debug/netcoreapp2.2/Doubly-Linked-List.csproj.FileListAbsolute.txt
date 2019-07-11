@@ -1,0 +1,11 @@
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/bin/Debug/netcoreapp2.2/Doubly-Linked-List.deps.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/bin/Debug/netcoreapp2.2/Doubly-Linked-List.runtimeconfig.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/bin/Debug/netcoreapp2.2/Doubly-Linked-List.runtimeconfig.dev.json
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/bin/Debug/netcoreapp2.2/Doubly-Linked-List.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/bin/Debug/netcoreapp2.2/Doubly-Linked-List.pdb
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.csprojAssemblyReference.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.csproj.CoreCompileInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.AssemblyInfoInputs.cache
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.AssemblyInfo.cs
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.dll
+/Users/gaivoronsky80/Documents/CodingDojo/c_sharp/data_structures/Doubly-Linked-List/obj/Debug/netcoreapp2.2/Doubly-Linked-List.pdb
